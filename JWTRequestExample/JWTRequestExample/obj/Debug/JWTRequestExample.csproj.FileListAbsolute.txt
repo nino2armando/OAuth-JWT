@@ -1,0 +1,17 @@
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\bin\Debug\JWTRequestExample.exe.config
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\bin\Debug\JWTRequestExample.exe
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\bin\Debug\JWTRequestExample.pdb
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\bin\Debug\Newtonsoft.Json.dll
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\bin\Debug\Thinktecture.IdentityModel.dll
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\bin\Debug\System.Web.Http.dll
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\bin\Debug\Newtonsoft.Json.xml
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\bin\Debug\Thinktecture.IdentityModel.pdb
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\bin\Debug\Thinktecture.IdentityModel.xml
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\bin\Debug\System.Web.Http.xml
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\obj\Debug\JWTRequestExample.csprojResolveAssemblyReference.cache
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\obj\Debug\JWTRequestExample.exe
+c:\users\nino\documents\visual studio 2012\Projects\JWTRequestExample\JWTRequestExample\obj\Debug\JWTRequestExample.pdb
